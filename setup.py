@@ -1,4 +1,6 @@
 # 파이썬의 패키지를 만들고 설치하기 위한 설정 파일
+# 아래의 명령어로 설치
+# pip install -e .
 from setuptools import setup
 
 setup(
